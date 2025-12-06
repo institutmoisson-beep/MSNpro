@@ -1,0 +1,8 @@
+{
+  "name": "Moisson Manager",
+  "description": "Futuristic SaaS for order centralization and flexible payment gateways (Mobile Money, Crypto, Wallet).",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
